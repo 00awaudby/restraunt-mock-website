@@ -1,0 +1,86 @@
+
+/*STYLES FOR WHEN ITS ABOVE MOBILE WIDTHS*/
+
+@media (min-width:769px){
+    .mobile-nav-container{
+      
+        
+        height: 100px;
+        
+    }
+
+    .mobile-nav{
+        display: flex;
+        flex-direction: row;
+    }
+
+  
+
+    svg{
+        display: none;
+    }
+
+    .main-nav{
+        display: flex;
+        justify-content: flex-end;
+        gap: 3rem;
+        align-items: center;
+       
+    }
+
+    .contact{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .image{
+        width: 50%;
+        height: 600px;
+    }
+
+  
+    .main-nav__menu-item a{
+        color: white;
+    }
+
+    .page-header{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    form{
+        width: 80%;
+        padding: 1rem;
+        
+    }
+
+    input{
+        margin-bottom: 2rem;
+    }
+
+    .boxes{
+        flex-direction: row;
+        
+    }
+   
+    .hero-2{
+        display: flex;
+        flex-direction: row;
+        
+    }
+   
+ 
+
+    .menu-wrap{
+        display: none;
+    }
+
+    .flex-nav{
+        display: flex;
+    }
+
+    .hamburger{
+        display: none;
+    }
+}
