@@ -20,7 +20,8 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Web capture_2-2-2023_145542_00awaudby github io](https://user-images.githubusercontent.com/84845712/216359071-49a7e2f0-33e5-4025-87f5-5110e1ee533c.jpeg)
+
 
 
 
