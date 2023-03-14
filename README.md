@@ -31,6 +31,9 @@
 - Live Site URL: (https://00awaudby.github.io/restraunt-mock-website/)
 
 ## My process
+The landing page mock was built oiut of semantic html , styled with css and a little bit of javascript to make the hamburger menus for the links open and close.
+
+the purpoes of this mock web site is that its a landing page for a reastraunt buisiness.
 
 ### Built with
 
